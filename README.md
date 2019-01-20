@@ -14,6 +14,8 @@
 
 - #### [饿了么物流技术团队 与Flutter第一次亲密接触-Android 视角 2018-09-04](https://juejin.im/post/5b8d46c3e51d4538e710bc78)
 
-- #### [Flutter基础视频免费教程 共25集完成 2018-12-21](https://juejin.im/post/5c1c5c1a6fb9a049f43b4944)
+- #### [微店的Flutter混合开发组件化与工程化架构 2018-09-04](https://juejin.im/post/5b8d46c3e51d4538e710bc78)
+
+- #### [Flutter基础视频免费教程 共25集完成 2019-01-08](https://juejin.im/post/5c346ad8e51d4551ea7f0fdf)
 
 <br /><br />
