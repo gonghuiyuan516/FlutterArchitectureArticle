@@ -18,4 +18,6 @@
 
 - #### [Flutter基础视频免费教程 共25集完成 2019-01-08](https://juejin.im/post/5c346ad8e51d4551ea7f0fdf)
 
+- #### [🔥闲鱼技术Flutter大全](https://www.yuque.com/xytech/flutter)
+
 <br /><br />
